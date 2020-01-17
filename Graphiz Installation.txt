@@ -1,0 +1,14 @@
+Graphviz - can't import after installation// 
+Error 'GraphViz's executables not found' 
+
+
+1. Install: "conda install python-graphviz" in anaconda prompt
+2. Add folder/directory to path:
+	1. Copy the directory: C:\Users\Umesh\Anaconda3\Library\bin\graphviz
+	2. Control Panel\System and Security\System 
+		> Advanced system settings
+		> Environment variables
+		> path
+		> Edit
+		> New
+	        > Paste > then OK
